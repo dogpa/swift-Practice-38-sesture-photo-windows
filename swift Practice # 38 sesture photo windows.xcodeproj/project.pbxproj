@@ -24,6 +24,7 @@
 		5D19B6A526A5396A00589A1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D19B6A826A5396A00589A1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D19B6AA26A5396A00589A1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D19B6B026A5486800589A1E /* HanyiSentyBubbleTea.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyBubbleTea.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		5D19B69B26A5396500589A1E /* swift Practice # 38 sesture photo windows */ = {
 			isa = PBXGroup;
 			children = (
+				5D19B6B026A5486800589A1E /* HanyiSentyBubbleTea.ttf */,
 				5D19B69C26A5396500589A1E /* AppDelegate.swift */,
 				5D19B69E26A5396500589A1E /* SceneDelegate.swift */,
 				5D19B6A026A5396500589A1E /* ViewController.swift */,
